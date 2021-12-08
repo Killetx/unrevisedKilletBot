@@ -1,0 +1,17 @@
+{
+  "name": "killetbot-prerelease",
+  "version": "0.0.2init",
+  "description": "template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Killet",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "js-xlsx": "^0.8.22",
+    "node-xlsx": "^0.14.1",
+    "xlsx": "^0.14.1"
+  }
+}
